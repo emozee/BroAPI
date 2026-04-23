@@ -1,8 +1,10 @@
 # BroAPI
-This is my first coding project! 
+Date: 23.April.2026 Exercise
 
-### Features:
-- Add tasks to a list
-- Delete tasks
-- Live counter of trainees/tasks
-- Won't add empty names
+## Link to view my Coding result.
+
+***Pelsup To do List*** (https://emozee.github.io/BroAPI/To-do-list/)
+
+***Countries details.*** (https://emozee.github.io/BroAPI/Countries/)
+
+***Gelephu Weather*** (https://emozee.github.io/BroAPI/Gelephu%20Weather/)
